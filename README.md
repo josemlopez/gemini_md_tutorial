@@ -11,11 +11,11 @@ graph TB
     
     C --> E[Contextual Accuracy<br/>Consistent Patterns<br/>Efficient Workflow]
     
-    style A fill:#ffcdd2
-    style B fill:#fff3e0
-    style C fill:#e8f5e8
-    style D fill:#ffebee
-    style E fill:#f1f8e9
+    style A fill:#4a5568,stroke:#68d391,stroke-width:2px,color:#e2e8f0
+    style B fill:#2d3748,stroke:#f6ad55,stroke-width:2px,color:#e2e8f0
+    style C fill:#1a202c,stroke:#68d391,stroke-width:2px,color:#e2e8f0
+    style D fill:#4a5568,stroke:#fc8181,stroke-width:2px,color:#e2e8f0
+    style E fill:#1a202c,stroke:#68d391,stroke-width:2px,color:#e2e8f0
 ```
 
 </div>
@@ -87,12 +87,12 @@ graph TD
     
     C --> F[./subdirectory/GEMINI.md<br/>Specific Module Rules<br/>Component Guidelines]
     
-    style A fill:#e3f2fd
-    style B fill:#f3e5f5
-    style C fill:#fff3e0
-    style D fill:#bbdefb
-    style E fill:#e1bee7
-    style F fill:#ffcc02
+    style A fill:#2d3748,stroke:#81c784,stroke-width:2px,color:#e2e8f0
+    style B fill:#2d3748,stroke:#ba68c8,stroke-width:2px,color:#e2e8f0
+    style C fill:#2d3748,stroke:#ffb74d,stroke-width:2px,color:#e2e8f0
+    style D fill:#1a202c,stroke:#81c784,stroke-width:2px,color:#e2e8f0
+    style E fill:#1a202c,stroke:#ba68c8,stroke-width:2px,color:#e2e8f0
+    style F fill:#1a202c,stroke:#ffb74d,stroke-width:2px,color:#e2e8f0
 ```
 
 </div>
@@ -154,14 +154,14 @@ graph TB
     B --> G[🔄 Development Workflow]
     B --> H[🤖 AI Collaboration Rules]
     
-    style A fill:#e3f2fd
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-    style E fill:#ffebee
-    style F fill:#f1f8e9
-    style G fill:#e0f2f1
-    style H fill:#fce4ec
+    style A fill:#2d3748,stroke:#64b5f6,stroke-width:2px,color:#e2e8f0
+    style B fill:#2d3748,stroke:#ba68c8,stroke-width:2px,color:#e2e8f0
+    style C fill:#1a202c,stroke:#81c784,stroke-width:2px,color:#e2e8f0
+    style D fill:#1a202c,stroke:#ffb74d,stroke-width:2px,color:#e2e8f0
+    style E fill:#1a202c,stroke:#f06292,stroke-width:2px,color:#e2e8f0
+    style F fill:#1a202c,stroke:#aed581,stroke-width:2px,color:#e2e8f0
+    style G fill:#1a202c,stroke:#4dd0e1,stroke-width:2px,color:#e2e8f0
+    style H fill:#1a202c,stroke:#f8bbd9,stroke-width:2px,color:#e2e8f0
 ```
 
 </div>
@@ -259,11 +259,11 @@ graph LR
     C --> D[⚖️ Define Boundaries]
     D --> E[✅ Test & Refine]
     
-    style A fill:#e3f2fd
-    style B fill:#f3e5f5
-    style C fill:#fff3e0
-    style D fill:#ffebee
-    style E fill:#e8f5e8
+    style A fill:#2d3748,stroke:#64b5f6,stroke-width:2px,color:#e2e8f0
+    style B fill:#2d3748,stroke:#ba68c8,stroke-width:2px,color:#e2e8f0
+    style C fill:#2d3748,stroke:#ffb74d,stroke-width:2px,color:#e2e8f0
+    style D fill:#2d3748,stroke:#f06292,stroke-width:2px,color:#e2e8f0
+    style E fill:#2d3748,stroke:#81c784,stroke-width:2px,color:#e2e8f0
 ```
 
 </div>
@@ -390,10 +390,13 @@ graph TB
     
     D --> G[Module-Specific Rules<br/>Component Standards<br/>Local Constraints]
     
-    style A fill:#e3f2fd
-    style B fill:#e8f5e8
-    style C fill:#fff3e0
-    style D fill:#ffebee
+    style A fill:#2d3748,stroke:#64b5f6,stroke-width:2px,color:#e2e8f0
+    style B fill:#1a202c,stroke:#81c784,stroke-width:2px,color:#e2e8f0
+    style C fill:#1a202c,stroke:#ffb74d,stroke-width:2px,color:#e2e8f0
+    style D fill:#1a202c,stroke:#f06292,stroke-width:2px,color:#e2e8f0
+    style E fill:#2d3748,stroke:#81c784,stroke-width:2px,color:#e2e8f0
+    style F fill:#2d3748,stroke:#ffb74d,stroke-width:2px,color:#e2e8f0
+    style G fill:#2d3748,stroke:#f06292,stroke-width:2px,color:#e2e8f0
 ```
 
 </div>
@@ -648,11 +651,11 @@ graph LR
     C --> D[🔄 Update GEMINI.md]
     D --> E[✨ Optimized System]
     
-    style A fill:#e3f2fd
-    style B fill:#f3e5f5
-    style C fill:#fff3e0
-    style D fill:#ffebee
-    style E fill:#e8f5e8
+    style A fill:#2d3748,stroke:#64b5f6,stroke-width:2px,color:#e2e8f0
+    style B fill:#2d3748,stroke:#ba68c8,stroke-width:2px,color:#e2e8f0
+    style C fill:#2d3748,stroke:#ffb74d,stroke-width:2px,color:#e2e8f0
+    style D fill:#2d3748,stroke:#f06292,stroke-width:2px,color:#e2e8f0
+    style E fill:#2d3748,stroke:#81c784,stroke-width:2px,color:#e2e8f0
 ```
 
 </div>
@@ -783,10 +786,13 @@ graph TD
     
     D --> G[Complete Guidelines Audit<br/>Standards Review<br/>Architecture Updates]
     
-    style A fill:#e3f2fd
-    style E fill:#e8f5e8
-    style F fill:#fff3e0
-    style G fill:#ffebee
+    style A fill:#2d3748,stroke:#64b5f6,stroke-width:2px,color:#e2e8f0
+    style B fill:#1a202c,stroke:#81c784,stroke-width:2px,color:#e2e8f0
+    style C fill:#1a202c,stroke:#ffb74d,stroke-width:2px,color:#e2e8f0
+    style D fill:#1a202c,stroke:#f06292,stroke-width:2px,color:#e2e8f0
+    style E fill:#2d3748,stroke:#81c784,stroke-width:2px,color:#e2e8f0
+    style F fill:#2d3748,stroke:#ffb74d,stroke-width:2px,color:#e2e8f0
+    style G fill:#2d3748,stroke:#f06292,stroke-width:2px,color:#e2e8f0
 ```
 
 </div>
@@ -837,8 +843,6 @@ graph TD
 
 ---
 
-## 🎯 Conclusion
-
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 25px; border-radius: 15px; margin: 20px 0;">
 
 **🚀 Transform Gemini into Your Perfect AI Collaborator**
@@ -855,10 +859,10 @@ graph LR
     B --> C[🔄 Continuous Evolution]
     C --> D[🚀 Perfect AI Collaborator]
     
-    style A fill:#e8f5e8
-    style B fill:#fff3e0
-    style C fill:#ffebee
-    style D fill:#4caf50
+    style A fill:#2d3748,stroke:#81c784,stroke-width:2px,color:#e2e8f0
+    style B fill:#2d3748,stroke:#ffb74d,stroke-width:2px,color:#e2e8f0
+    style C fill:#2d3748,stroke:#f06292,stroke-width:2px,color:#e2e8f0
+    style D fill:#1a202c,stroke:#68d391,stroke-width:3px,color:#e2e8f0
 ```
 
 </div>
